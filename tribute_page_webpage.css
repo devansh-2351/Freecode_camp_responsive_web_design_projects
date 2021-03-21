@@ -1,0 +1,31 @@
+h1{
+font-size : 500%;
+font-color : white;
+}
+body{
+  text-shadow : 5px 5px 7px grey;
+  text-align : center;
+  font-family : helvetica;
+  background : black;
+  color : white;
+}
+img{
+  width : 50%;
+  display : block;
+  margin : auto;
+  box-shadow : 5px 5px 7px grey;
+  border-radius : 5%;
+}
+a:link{
+  color : white;
+  text-decoration : none;
+}
+a:hover{
+  color : white;
+}
+a:active{
+  color : white;
+}
+a:visited{
+  color : white;
+}
