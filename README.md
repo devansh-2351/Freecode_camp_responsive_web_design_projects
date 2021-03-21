@@ -1,1 +1,1 @@
-# Freecode_camp_responsive_web_design_projects
+# Freecodecamp_responsive_web_design_projects
